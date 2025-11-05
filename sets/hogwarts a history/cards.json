@@ -1,9 +1,10 @@
 {
     "setName": "Hogwarts A History",
-    "releaseDate": "12-2023",
     "totalCards": "20",
     "cards": [
         {
+            "Legality": "legal",
+            "draftValue": 4,
             "number": "1",
             "name": "Godric Gryffindor",
             "artist": "AnnaSassiArt",
@@ -22,6 +23,8 @@
             ]
         },
         {
+            "Legality": "legal",
+            "draftValue": 3,
             "number": "2",
             "name": "Helga Hufflepuff",
             "artist": "AnnaSassiArt",
@@ -40,6 +43,8 @@
             ]
         },
         {
+            "Legality": "legal",
+            "draftValue": 3,
             "number": "3",
             "name": "Hogwarts: A History",
             "artist": "oixxo",
@@ -52,19 +57,21 @@
             "lesson": [
                 "Charms"
             ],
-            "cost": 9,
+            "cost": "9",
             "rarity": "Rare",
+            "effect": [
+                "You may use an Action to discard a Lesson card from your hand. If you do, you may put a non-Healing card from your discard pile into your hand."
+            ],
             "provides": [
                 {
                     "lesson": "Charms",
                     "amount": 1
                 }
-            ],
-            "effect": [
-                "You may use an Action to discard a Lesson card from your hand. If you do, you may put a non-Healing card from your discard pile into your hand."
             ]
         },
         {
+            "Legality": "legal",
+            "draftValue": 3.5,
             "number": "4",
             "name": "Rowena Ravenclaw",
             "artist": "AnnaSassiArt",
@@ -83,6 +90,8 @@
             ]
         },
         {
+            "Legality": "legal",
+            "draftValue": 4.5,
             "number": "5",
             "name": "Salazar Slytherin",
             "artist": "AnnaSassiArt",
@@ -101,6 +110,8 @@
             ]
         },
         {
+            "Legality": "legal",
+            "draftValue": 4,
             "number": "6",
             "name": "The Grand Staircase",
             "artist": "Wizarding World",
@@ -113,7 +124,7 @@
             "lesson": [
                 "Transfiguration"
             ],
-            "cost": 6,
+            "cost": "6",
             "rarity": "Rare",
             "effect": [
                 "Before each player's turn, they get 1 fewer Action that turn. Once during each player's turn, they may discard a Lesson card from their hand to get 1 more Action."
@@ -121,6 +132,8 @@
             "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
         },
         {
+            "Legality": "legal",
+            "draftValue": 3.5,
             "number": "7",
             "name": "Cockatrice Attack",
             "artist": "arvalis",
@@ -137,6 +150,8 @@
             "reward": "Your opponent chooses 1 of your cards in play and discards it."
         },
         {
+            "Legality": "legal",
+            "draftValue": 3,
             "number": "8",
             "name": "Hogwarts' First Match",
             "artist": "MagpieSly",
@@ -146,7 +161,7 @@
             "lesson": [
                 "Quidditch"
             ],
-            "cost": 1,
+            "cost": "1",
             "rarity": "Uncommon",
             "effect": [
                 "If this card is in your discard pile, you may discard a Lesson card from your hand to play this card as if it were in your hand.",
@@ -157,6 +172,8 @@
             "prize": "The winner may choose an opponent's card in play and discard it."
         },
         {
+            "Legality": "legal",
+            "draftValue": 3.5,
             "number": "9",
             "name": "Hogwarts Kitchens",
             "artist": "Unknown",
@@ -169,7 +186,7 @@
             "lesson": [
                 "Potions"
             ],
-            "cost": 4,
+            "cost": "4",
             "rarity": "Uncommon",
             "effect": [
                 "Before each player's turn, they may search their deck. They may take a Healing card, reveal it, and put it into their hand. Then they shuffle their deck."
@@ -177,6 +194,8 @@
             "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
         },
         {
+            "Legality": "legal",
+            "draftValue": 3,
             "number": "10",
             "name": "Hufflepuff Common Room",
             "artist": "GnomeSchool",
@@ -191,7 +210,7 @@
             "lesson": [
                 "Care of Magical Creatures"
             ],
-            "cost": 5,
+            "cost": "5",
             "rarity": "Uncommon",
             "effect": [
                 "Before each players turn, they count the number of Hufflepuff cards they have in play. For every 2 they have in play (rounded up), they put up to 1 non-Healing card from their discard pile on the bottom of their deck and draw a card."
@@ -199,6 +218,8 @@
             "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
         },
         {
+            "Legality": "legal",
+            "draftValue": 3,
             "number": "11",
             "name": "Ravenclaw Common Room",
             "artist": "Sophia Del Plato",
@@ -212,7 +233,7 @@
             "lesson": [
                 "Charms"
             ],
-            "cost": 5,
+            "cost": "5",
             "rarity": "Uncommon",
             "effect": [
                 "Before each player's turn, they count the number of Ravenclaw cards they have in play. The first card they play that turn needs that much less Power to play. (You still need at least 1 Power that matches)."
@@ -220,6 +241,8 @@
             "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
         },
         {
+            "Legality": "legal",
+            "draftValue": 5,
             "number": "12",
             "name": "Stairs into Slides",
             "artist": "Hogwarts-Castle",
@@ -229,7 +252,7 @@
             "lesson": [
                 "Transfiguration"
             ],
-            "cost": 5,
+            "cost": "5",
             "rarity": "Uncommon",
             "flavorText": "\"Er — I don’t think we’re allowed in the girls’ dormitories\"' - Ron Weasley",
             "effect": [
@@ -237,6 +260,8 @@
             ]
         },
         {
+            "Legality": "legal",
+            "draftValue": 4.5,
             "number": "13",
             "name": "The First Triwizard Tournament",
             "artist": "twibbley",
@@ -253,6 +278,8 @@
             "reward": "Your opponent gets 1 more Action (the turn this Adventure is solved)."
         },
         {
+            "Legality": "legal",
+            "draftValue": 3.5,
             "number": "14",
             "name": "Animated Armour",
             "artist": "FonteArt",
@@ -265,15 +292,17 @@
             "lesson": [
                 "Care of Magical Creatures"
             ],
-            "cost": 4,
+            "cost": "4",
             "rarity": "Common",
-            "dmgEachTurn": 1,
-            "health": 3,
+            "dmgEachTurn": "1",
+            "health": "3",
             "effect": [
                 "If this card is in your discard pile, you may discard a Lesson card from your hand to play this card as if it were in your hand."
             ]
         },
         {
+            "Legality": "legal",
+            "draftValue": 3.5,
             "number": "15",
             "name": "Bewitched Ceiling",
             "artist": "Unknown",
@@ -283,13 +312,15 @@
             "lesson": [
                 "Transfiguration"
             ],
-            "cost": 4,
+            "cost": "4",
             "rarity": "Common",
             "effect": [
                 "Once during each of your turns, you may discard the the top card of your deck. If you do, until the end of the turn, this card provides 2 Power that matches the Lesson type of that card."
             ]
         },
         {
+            "Legality": "legal",
+            "draftValue": 5,
             "number": "16",
             "name": "Depulso",
             "artist": "hueco-mundo",
@@ -299,13 +330,15 @@
             "lesson": [
                 "Charms"
             ],
-            "cost": 4,
+            "cost": "4",
             "rarity": "Common",
             "effect": [
                 "Choose an opponent's card in play with a printed Power cost and put it on the bottom of its owner's deck."
             ]
         },
         {
+            "Legality": "legal",
+            "draftValue": 3,
             "number": "17",
             "name": "Invisibility Potion",
             "artist": "A;oa-Moosvi",
@@ -315,13 +348,15 @@
             "lesson": [
                 "Potions"
             ],
-            "cost": 6,
+            "cost": "6",
             "rarity": "Common",
             "effect": [
                 "If this card is in your discard pile, you may discard a Lesson card from your hand to play this card as if it were in your hand.  Choose an opponent. During their next turn, they cannot choose your cards in play."
             ]
         },
         {
+            "Legality": "legal",
+            "draftValue": 3,
             "number": "18",
             "name": "Midnight Snacks",
             "artist": "TwiggyMcBones",
@@ -334,13 +369,15 @@
             "lesson": [
                 "Potions"
             ],
-            "cost": 5,
+            "cost": "5",
             "rarity": "Common",
             "effect": [
                 "Choose 5 non-Healing cards in your discard pile. Your opponent chooses 1 of them. Put that card into your hand and shuffle the rest into your deck."
             ]
         },
         {
+            "Legality": "legal",
+            "draftValue": 3.5,
             "number": "19",
             "name": "Stooging Penalty",
             "artist": "J-Grey",
@@ -350,13 +387,15 @@
             "lesson": [
                 "Quidditch"
             ],
-            "cost": 5,
+            "cost": "5",
             "rarity": "Common",
             "effect": [
                 "Do 2 damage to an opponent. Then, if they have any Characters in play, they choose 1 of them and discard it."
             ]
         },
         {
+            "Legality": "legal",
+            "draftValue": 1.5,
             "number": "20",
             "name": "Wild Cockatrice",
             "artist": "Nimphradora",
@@ -369,13 +408,14 @@
             "lesson": [
                 "Care of Magical Creatures"
             ],
-            "cost": 8,
+            "cost": "8",
             "rarity": "Common",
-            "dmgEachTurn": 4,
-            "health": 4,
+            "dmgEachTurn": "4",
+            "health": "4",
             "effect": [
                 "To play this card, discard 1 of your [F] Lessons from play. When you play this card, you may choose an opponent's Character in play (other than their starting Character) and discard it."
             ]
         }
-    ]
+    ],
+    "releaseDate": "12-2023"
 }
