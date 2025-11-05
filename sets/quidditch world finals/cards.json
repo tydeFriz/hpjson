@@ -1,9 +1,11 @@
 {
     "setName": "Quidditch World Finals",
+    "releaseDate": "06-2025",
     "totalCards": "90",
     "cards": [
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "1",
             "name": "Barty Crouch",
             "artist": "Brenna-Ivy Art",
@@ -23,6 +25,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 1.5,
             "number": "2",
             "name": "Bulgaria Scores",
             "artist": "Unknown",
@@ -41,6 +44,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2,
             "number": "3",
             "name": "Connolly and Quigley, Irish Beaters",
             "artist": "Ming Sukiyaki",
@@ -61,6 +65,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2,
             "number": "4",
             "name": "Death Eater",
             "artist": "Paolo Maria Breda",
@@ -80,6 +85,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 1.5,
             "number": "5",
             "name": "Fleeing the Grounds",
             "artist": "Nasak Chancharoen",
@@ -97,6 +103,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3.5,
             "number": "6",
             "name": "Ginny, Youngest Weasley",
             "artist": "Pika-la-Cynique",
@@ -116,6 +123,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "7",
             "name": "Green Comet Leprechauns",
             "artist": "maryquize",
@@ -139,6 +147,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "8",
             "name": "Krum, Bulgarian Seeker",
             "artist": "Ari",
@@ -159,6 +168,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2.5,
             "number": "9",
             "name": "Krum's Firebolt",
             "artist": "Anne Borges",
@@ -180,6 +190,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4,
             "number": "10",
             "name": "Lantern Lit Trail",
             "artist": "Pikabyunn",
@@ -198,6 +209,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2.5,
             "number": "11",
             "name": "Ludo Bagman",
             "artist": "Nat",
@@ -217,6 +229,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4.5,
             "number": "12",
             "name": "Lynch, Irish Seeker",
             "artist": "GeoCaecias",
@@ -224,6 +237,9 @@
                 "Character"
             ],
             "subTypes": [
+                "Ireland",
+                "Seeker",
+                "Wizard",
                 "Unique"
             ],
             "rarity": "Rare",
@@ -233,6 +249,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "13",
             "name": "Melee of the Mascots",
             "artist": "Marine Lannoy",
@@ -254,6 +271,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 1.5,
             "number": "14",
             "name": "Omnioculars",
             "artist": "oixxo",
@@ -271,6 +289,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2.5,
             "number": "15",
             "name": "Rain of Bludgers",
             "artist": "Sammy DiSalvo",
@@ -288,6 +307,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4.5,
             "number": "16",
             "name": "The Dark Mark",
             "artist": "Paolo Maria Breda",
@@ -308,6 +328,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2,
             "number": "17",
             "name": "Touring the Tents",
             "artist": "Nasak Chancharoen",
@@ -328,6 +349,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2.5,
             "number": "18",
             "name": "Winky",
             "artist": "Brenna-Ivy Art",
@@ -346,6 +368,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "19",
             "name": "Winky's Thievery",
             "artist": "VanishingShmink",
@@ -364,6 +387,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "20",
             "name": "Winners' Celebration",
             "artist": "Vladislav Pantic",
@@ -385,6 +409,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 5,
             "number": "21",
             "name": "World Cup Match",
             "artist": "Roro Videla",
@@ -406,6 +431,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4,
             "number": "22",
             "name": "Zograf, Bulgarian Keeper",
             "artist": "Jenny Dolfen",
@@ -426,6 +452,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3.5,
             "number": "23",
             "name": "Aurors Arrive",
             "artist": "UpTheHill",
@@ -443,6 +470,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "24",
             "name": "Bagman's Deception",
             "artist": "KAmmons",
@@ -461,6 +489,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3.5,
             "number": "25",
             "name": "Broomstick Servicing Kit",
             "artist": "oixxo",
@@ -478,6 +507,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2.5,
             "number": "26",
             "name": "Bundimun",
             "artist": "maryquize",
@@ -500,6 +530,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3.5,
             "number": "27",
             "name": "Campfire Stories",
             "artist": "HogwartsHorror",
@@ -520,6 +551,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4.5,
             "number": "28",
             "name": "Dreams of Flying",
             "artist": "Rhys",
@@ -537,6 +569,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 5,
             "number": "29",
             "name": "Erumpent",
             "artist": "maryquize",
@@ -559,6 +592,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4,
             "number": "30",
             "name": "Inside the Tent",
             "artist": "Murph3",
@@ -576,6 +610,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "31",
             "name": "Krum Catches the Snitch",
             "artist": "Nasak Chancharoen",
@@ -597,6 +632,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3.5,
             "number": "32",
             "name": "Leprechaun",
             "artist": "charco",
@@ -620,6 +656,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2.5,
             "number": "33",
             "name": "Leprechaun Gold",
             "artist": "Marton Szoke-Kiss",
@@ -637,6 +674,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 5,
             "number": "34",
             "name": "Meeting Diggory",
             "artist": "HogwartsHorror",
@@ -655,6 +693,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 5,
             "number": "35",
             "name": "Merchandise Cart",
             "artist": "Nimphradora",
@@ -672,6 +711,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2.5,
             "number": "36",
             "name": "Muggle Marionettes",
             "artist": "eihposnostam",
@@ -694,6 +734,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2.5,
             "number": "37",
             "name": "Porskoff Ploy",
             "artist": "zarin-a",
@@ -712,6 +753,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3.5,
             "number": "38",
             "name": "Portkey",
             "artist": "Nasak Chancharoen",
@@ -729,6 +771,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2,
             "number": "39",
             "name": "Quick Camp Kit",
             "artist": "oixxo",
@@ -746,6 +789,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4,
             "number": "40",
             "name": "Quidditch Stadium",
             "artist": "Pottermore",
@@ -767,6 +811,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 1,
             "number": "41",
             "name": "Swelling Slug",
             "artist": "maryquize",
@@ -789,6 +834,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2.5,
             "number": "42",
             "name": "Tents Ablaze",
             "artist": "cobaltplasma",
@@ -811,6 +857,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2.5,
             "number": "43",
             "name": "Tough Beaters",
             "artist": "Alivewhenever",
@@ -828,6 +875,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3.5,
             "number": "44",
             "name": "Wide Awake with Worry",
             "artist": "MioneBookworm",
@@ -848,6 +896,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4.5,
             "number": "45",
             "name": "Wronski Feint",
             "artist": "karn_leopold",
@@ -866,6 +915,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "46",
             "name": "Alluring Dance",
             "artist": "gerre",
@@ -884,6 +934,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2,
             "number": "47",
             "name": "Bagman's Gamble",
             "artist": "brainchilds",
@@ -901,6 +952,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4,
             "number": "48",
             "name": "Billywig",
             "artist": "maryquize",
@@ -923,6 +975,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "49",
             "name": "Biting Gnome",
             "artist": "maryquize",
@@ -945,6 +998,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "50",
             "name": "Blackboard Advertisements",
             "artist": "Sammy DiSalvo",
@@ -963,6 +1017,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4.5,
             "number": "51",
             "name": "Bludger to the Face",
             "artist": "Cebutoons",
@@ -980,6 +1035,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 5,
             "number": "52",
             "name": "Borrowed Tent",
             "artist": "oixxo",
@@ -997,6 +1053,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4,
             "number": "53",
             "name": "Box of Portkeys",
             "artist": "Pottermore",
@@ -1015,6 +1072,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2,
             "number": "54",
             "name": "Bulgarian Fans",
             "artist": "Unknown",
@@ -1035,6 +1093,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3.5,
             "number": "55",
             "name": "Cannon Pride",
             "artist": "Unknown",
@@ -1052,6 +1111,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2.5,
             "number": "56",
             "name": "Child's Broom",
             "artist": "Unknown",
@@ -1069,6 +1129,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3.5,
             "number": "57",
             "name": "Death Eater Mask",
             "artist": "Ian Baretto",
@@ -1089,6 +1150,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4.5,
             "number": "58",
             "name": "Deletrius",
             "artist": "aleksandvagne",
@@ -1107,6 +1169,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2,
             "number": "59",
             "name": "Deliberate Collision!",
             "artist": "KendallHaleArt",
@@ -1125,6 +1188,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2.5,
             "number": "60",
             "name": "Delight of the Death Eaters",
             "artist": "Vinicius Carvalho",
@@ -1146,6 +1210,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3.5,
             "number": "61",
             "name": "Distracted Referee",
             "artist": "Alera",
@@ -1164,6 +1229,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4,
             "number": "62",
             "name": "Diversion!",
             "artist": "ReNa-spirtwalker",
@@ -1181,6 +1247,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "63",
             "name": "Final Score",
             "artist": "Sammy DiSalvo",
@@ -1199,6 +1266,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4.5,
             "number": "64",
             "name": "Finals Program",
             "artist": "Liam Cleal",
@@ -1216,6 +1284,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2,
             "number": "65",
             "name": "Firefly",
             "artist": "Himmis",
@@ -1233,11 +1302,12 @@
             "dmgEachTurn": "1",
             "health": "1",
             "effect": [
-                "When you play this card, search your deck. You may take a Beater, Chaser, Keeper, or Seeker card, reveal it, and put it into your hand. Then shuffle your deck.\n\nYou may use an Action and discard this card from play to draw 3 cards."
+                "When this card is discarded from play, draw a card."
             ]
         },
         {
             "Legality": "legal",
+            "draftValue": 2,
             "number": "66",
             "name": "Firewhisky",
             "artist": "TheCrookedSeptum",
@@ -1258,6 +1328,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2,
             "number": "67",
             "name": "Flying Carpet Embargo",
             "artist": "twibbley",
@@ -1276,6 +1347,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "68",
             "name": "Flying with the Cannons",
             "artist": "Sammy DiSalvo",
@@ -1296,6 +1368,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "69",
             "name": "Fwooper",
             "artist": "maryquize",
@@ -1318,6 +1391,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3.5,
             "number": "70",
             "name": "Gifts of Gold",
             "artist": "vertry",
@@ -1336,6 +1410,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3.5,
             "number": "71",
             "name": "Hanging Shamrocks",
             "artist": "Sammy DiSalvo",
@@ -1345,7 +1420,7 @@
             "lesson": [
                 "Transfiguration"
             ],
-            "cost": "1",
+            "cost": "2",
             "rarity": "Common",
             "flavorText": "‘They had walked into a patch of tents that were all covered with a thick growth of shamrocks...'",
             "effect": [
@@ -1354,6 +1429,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2.5,
             "number": "72",
             "name": "Interrogation",
             "artist": "Olivia Pelaez",
@@ -1371,6 +1447,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4.5,
             "number": "73",
             "name": "Ireland Scores!",
             "artist": "dreaminpng",
@@ -1389,6 +1466,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3.5,
             "number": "74",
             "name": "Malfoy's Sinister Warning",
             "artist": "HogwartsHorror",
@@ -1410,6 +1488,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 1,
             "number": "75",
             "name": "Mascot Introductions",
             "artist": "Nasak Chancharoen",
@@ -1428,6 +1507,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 1,
             "number": "76",
             "name": "Model Broomstick",
             "artist": "Nikita Bychkov",
@@ -1445,6 +1525,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3.5,
             "number": "77",
             "name": "Morsmordre",
             "artist": "otis4rt",
@@ -1466,6 +1547,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3.5,
             "number": "78",
             "name": "Muggle Artifact",
             "artist": "lackadaisycal-art",
@@ -1483,6 +1565,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2,
             "number": "79",
             "name": "Prior Incantato",
             "artist": "daekazu",
@@ -1501,6 +1584,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 5,
             "number": "80",
             "name": "Rennervate",
             "artist": "Dina M. Nealey",
@@ -1522,6 +1606,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4,
             "number": "81",
             "name": "Sharp Eyed Seeker",
             "artist": "zarin-a",
@@ -1539,6 +1624,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "82",
             "name": "Silhouettes in the Smoke",
             "artist": "Latet",
@@ -1559,6 +1645,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4,
             "number": "83",
             "name": "Slow Motion Viewing",
             "artist": "Ungapants",
@@ -1580,6 +1667,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4,
             "number": "84",
             "name": "Synchronized Chasers",
             "artist": "Gylana",
@@ -1597,6 +1685,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 4.5,
             "number": "85",
             "name": "Trick Wand",
             "artist": "Lola Robyne",
@@ -1614,6 +1703,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "86",
             "name": "Veela",
             "artist": "TheCrookedSeptum",
@@ -1637,6 +1727,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "87",
             "name": "Veela Fireballs",
             "artist": "aleksandvagne",
@@ -1655,6 +1746,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "88",
             "name": "Weasley Ghoul",
             "artist": "maryquize",
@@ -1678,6 +1770,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 2,
             "number": "89",
             "name": "Winky's Empty Seat",
             "artist": "HogwartsHorror",
@@ -1696,6 +1789,7 @@
         },
         {
             "Legality": "legal",
+            "draftValue": 3,
             "number": "90",
             "name": "Wizard Robes",
             "artist": "Sarcone",

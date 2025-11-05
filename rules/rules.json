@@ -488,14 +488,6 @@
         ]
     },
     {
-        "date": "2020-007-31",
-        "source": "Revival",
-        "ruling": "If Dobby is the only card in play (on either your or an opponent’s side) and you prevent any damage with Dobby’s effect, your opponent has no legal targets to choose for Dobby’s effect. You can still prevent damage with Dobby, but your opponent will get no benefit from Dobby.",
-        "cards": [
-            "Dobby"
-        ]
-    },
-    {
         "date": "2020-07-03",
         "source": "Revival",
         "ruling": "If there is a Match in play, then the damage your opponent takes to solve this card counts toward the Match for your opponent.",
@@ -535,6 +527,14 @@
         "ruling": "No card in the discard pile may leave the discard pile, be played from the discard pile, or be chosen as a target by another card. Cards like Reparo, Remembrall, and Healing cards would not be able to be played/activated since you cannot complete everything on the card.",
         "cards": [
             "Chamber of Secrets"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If Dobby is the only card in play (on either your or an opponent’s side) and you prevent any damage with Dobby’s effect, your opponent has no legal targets to choose for Dobby’s effect. You can still prevent damage with Dobby, but your opponent will get no benefit from Dobby.",
+        "cards": [
+            "Dobby"
         ]
     },
     {
@@ -1748,7 +1748,7 @@
     {
         "date": "2023-06-01",
         "source": "Revival",
-        "ruling": "Flitwick does not bypass alternate costs for playing a Spell, such as increased Action cost, increased Power cost, or additional costs to pay",
+        "ruling": "Flitwick does not bypass alternate costs for playing a Spell, such as increased Action cost, increased Power cost, or additional costs.",
         "cards": [
             "Prof. Flitwick, Charms Master"
         ]
@@ -2290,6 +2290,14 @@
         "ruling": "See \"Copying\" in the rules.",
         "cards": [
             "Trick Wand"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "Each card discarded from your hand will be a separate instance of 1 damage from Biting Gnome.",
+        "cards": [
+            "Biting Gnome"
         ]
     }
 ]
