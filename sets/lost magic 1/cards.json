@@ -1,0 +1,417 @@
+{
+    "setName": "Lost Magic 1",
+    "totalCards": "20",
+    "cards": [
+        {
+            "Legality": "legal",
+            "draftValue": 5,
+            "number": "1",
+            "name": "Bloody Baron",
+            "artist": "emmanuel7",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Ghost",
+                "Slytherin",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "The Bloody Baron's the only one who can control him [Peeves], he won't even listen to us Prefects - Percy Weasley",
+            "effect": [
+                "Once per game, you may discard 3 cards from your hand to choose an opponent's card in play and discard it"
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 4,
+            "number": "2",
+            "name": "Forest Flying Car",
+            "artist": "Loleia",
+            "type": [
+                "Creature",
+                "Item"
+            ],
+            "subTypes": [
+                "Car",
+                "Unique"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "14",
+            "rarity": "Rare",
+            "flavorText": "The sides of the car were scratched and smeared with mud. Apparently it had taken to trundling around the forest on its own",
+            "dmgEachTurn": "8",
+            "health": "7",
+            "effect": [
+                "To play this card, discard at least 1 of your Creatures or Characters from play. This card costs 2 less Power to play for each card you discarded.\nWhen you play this card, do 2 damage to an opponent for each card discarded from play for this effect."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 4,
+            "number": "3",
+            "name": "Peeves, Picking on Ickle Firsties",
+            "artist": "Emmanuel Oquendo",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Ghost",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "Peeves the Poltergeist was worth two locked doors and a trick staircase if you met him when you were late for class",
+            "effect": [
+                "Once per turn, you may use an Action to draw 3 cards. An opponent may prevent this by taking 3 damage."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 5,
+            "number": "4",
+            "name": "Prongs",
+            "artist": "artsbyaddie",
+            "type": [
+                "Character",
+                "Creature"
+            ],
+            "subTypes": [
+                "Deer",
+                "Marauder",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "effect": [
+                "Play this card only if you have at least 5 Lessons in play.\nThis card's damage per turn is equal to the number of Marauder cards you have in play. When you play this card, do damage to an opponent equal to its damage per turn."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 5,
+            "number": "5",
+            "name": "The Man With Two Faces",
+            "artist": "Vladislav Pantic",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Dark",
+                "Wizard",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "effect": [
+                "If this card is your starting Character, it has both effects. Otherwise, when you play this card, choose one:\n-The first Dark card you play each turn does not require Power that matches.\n-Once per game, you may return all Events and Adventures in play to their owners' hands."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 5,
+            "number": "6",
+            "name": "Filch's Office",
+            "artist": "nasubionna",
+            "type": [],
+            "subTypes": [
+                "Location ",
+                "Unique"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "5",
+            "rarity": "Uncommon",
+            "effect": [
+                "All Characters lose all abilities. \nBefore each player's turn, they may discard 2 of their cards from their hand and/or that they control from play. If they do, this card has no effect until the end of this turn."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 3,
+            "number": "7",
+            "name": "Late Night Patrol",
+            "artist": "Varun Nair",
+            "type": [
+                "Adventure"
+            ],
+            "rarity": "Uncommon",
+            "effect": [
+                "Your opponent cannot play non-Lesson cards that share a card type with another card they played that turn. Solve: Your opponent skips a total of 5 Actions. Reward: Your opponent may draw 2 cards."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 4,
+            "number": "8",
+            "name": "Moste Potente Potions",
+            "artist": "loquaciousliterature",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Book"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "3",
+            "rarity": "Uncommon",
+            "effect": [
+                "Before your turn, you may discard this card from play. If you do, choose up to 2 of an opponent's cards in play. Until the beginning of your next turn, those cards lose all abilities."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 3,
+            "number": "9",
+            "name": "Out of Bounds 3rd Floor",
+            "artist": "Unknown",
+            "type": [
+                "Location"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "4",
+            "rarity": "Uncommon",
+            "flavorText": "\"And finally, I must tell you that this year, the third-floor corridor on the right-hand side is out of bounds to everyone who does not wish to die a very painful death.\"\n— Albus Dumbledore",
+            "effect": [
+                "Whenever a player plays a Location card, discard that Location after discarding this one."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 2,
+            "number": "10",
+            "name": "Rivals",
+            "artist": "Vladislav Pantic",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": "4",
+            "rarity": "Uncommon",
+            "effect": [
+                "When you play this card, choose a card type. Whenever you take damage from a card of the chosen type, you may prevent up to 2 of that damage and put that many counters on this card. \n\nIf this card has 10 or more counters on it, it no longer prevents damage and instead when an opponent's card does damage to you, you may discard this card to prevent that damage."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 4,
+            "number": "11",
+            "name": "Sorting Ceremony",
+            "artist": "Emmanuel Oquendo",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Healing",
+                "Unique"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "6",
+            "rarity": "Uncommon",
+            "effect": [
+                "This card does not require Power that matches to play.\nBefore each of your turns, you may choose 1 of the following keywords you have in play:\nGryffindor - Draw 2 cards\nHufflepuff - Put up to 2 non-Healing cards from your discard pile on the bottom of your deck\nRavenclaw - Your cards need 2 less Power to play this turn\nSlytherin - Do 2 damage to an opponent"
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 2,
+            "number": "12",
+            "name": "Boatride to Hogwarts",
+            "artist": "Unknown",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "3",
+            "rarity": "Common",
+            "flavorText": "The little boats carried them through a curtain of ivy which hid a wide opening in the cliff face. \"",
+            "effect": [
+                "At the end of each opponent's turn, if they chose to not use all of their available Actions, you may choose 1 of their cards in play and discard it."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 2,
+            "number": "13",
+            "name": "First to Rise, First to Die",
+            "artist": "Pottermore",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Divination",
+                "Unique"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "3",
+            "rarity": "Common",
+            "flavorText": "\"Never forget that when thirteen dine together, the first to rise will be the first to die!\"\n— Sybill Trelawney",
+            "effect": [
+                "Whenever an opponent uses any Actions to play the second card that shares a card type with another card they played that turn, do 5 damage to them."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 3,
+            "number": "14",
+            "name": "Followed by Cho",
+            "artist": "Xonniart",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": "6",
+            "rarity": "Common",
+            "effect": [
+                "Do 5 damage to an opponent. Then they choose 1 of their non-Lesson cards in play. That card loses all abilities until the beginning of your next turn."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 2,
+            "number": "15",
+            "name": "Harry vs Draco",
+            "artist": "Vladislav Pantic",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "4",
+            "rarity": "Common",
+            "effect": [
+                "To play this card, discard 3 Lesson cards from your hand.\nDo 8 damage to an opponent."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 3,
+            "number": "16",
+            "name": "Lockhart's Cupids",
+            "artist": "Vladislav Pantic",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "3",
+            "rarity": "Common",
+            "effect": [
+                "Choose a Character in play. It loses all abilities until the beginning of your next turn.\nPrevent all damage done to you by Creatures until your next turn."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 3,
+            "number": "17",
+            "name": "Meeting Charlie",
+            "artist": "Pottermore",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "7",
+            "rarity": "Common",
+            "effect": [
+                "Choose a Creature in play. Draw cards equal to half of its printed Power cost (rounded up). Then the owner of that Creature draws 2 cards. Then shuffle that Creature into its owner's deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 3,
+            "number": "18",
+            "name": "Meeting on the Train",
+            "artist": "Vladislav Pantic",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Healing",
+                "Unique"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "4",
+            "rarity": "Common",
+            "flavorText": "“Are you really Harry Potter?” - Ron Weasley",
+            "effect": [
+                "Whenever an opponent uses any Actions to play a card, you may put a counter on this card.\nYou may use an Action to discard this card from play. If you do, shuffle cards up to half the number of counters on this card from your discard pile into your deck (rounded up)."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 4,
+            "number": "19",
+            "name": "Ron's Knightly Protection",
+            "artist": "MudBlood428",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "4",
+            "rarity": "Common",
+            "flavorText": "“That’s chess!” snapped Ron. \"“You’ve got to make some sacrifices! I’ll make my move and she’ll take me — that leaves you free to checkmate the king, Harry!”",
+            "effect": [
+                "At the beginning of each opponents' turn, if they have more Power than you, their cards need 2 more Power to play until the end of their turn."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "draftValue": 2,
+            "number": "20",
+            "name": "Unconscious Troll",
+            "artist": "Unknown",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Troll"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "3",
+            "rarity": "Common",
+            "flavorText": "“I’m glad we didn’t have to fight that one,” Harry whispered as they stepped carefully over one of its massive legs.",
+            "dmgEachTurn": "0",
+            "health": "6",
+            "effect": [
+                "Whenever you discard the second card you control from play each turn, this card does 3 ddamage to an opponent."
+            ]
+        }
+    ],
+    "releaseDate": "03-2026"
+}
